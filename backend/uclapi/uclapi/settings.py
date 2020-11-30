@@ -72,7 +72,8 @@ INSTALLED_APPS = [
     'raven.contrib.django.raven_compat',
     'corsheaders',
     'workspaces',
-    'webpack_loader'
+    'webpack_loader',
+    'libcal'
 ]
 
 MIDDLEWARE = [
